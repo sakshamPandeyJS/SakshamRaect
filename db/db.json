@@ -1,0 +1,38 @@
+{
+  "login": [
+    {
+      "email": "saksham",
+      "password": "1111"
+    }
+  ],
+  "resturant": [
+    {
+      "name": "PizzaHut",
+      "rating": "4.2",
+      "address": "Lucknow",
+      "email": "pizza_hut@test.com",
+      "id": 6
+    },
+    {
+      "name": "IndiaStyleYum",
+      "rating": "VegiePaji",
+      "address": "Lucknow",
+      "email": "veggie@test.com",
+      "id": 8
+    },
+    {
+      "name": "IndiaStyleYum",
+      "rating": "VegiePaji",
+      "address": "Lucknow",
+      "email": "veggie@test.com",
+      "id": 9
+    },
+    {
+      "name": "Fauji Dhaba",
+      "rating": "4",
+      "address": "IIM",
+      "email": "fauji@gmail.com",
+      "id": 10
+    }
+  ]
+}
